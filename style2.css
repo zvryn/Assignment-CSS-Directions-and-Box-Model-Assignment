@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-family: "sans-serif";
+}
+
+.gray-box {
+  height: 100vh;
+  background-color: lightgray;
+  padding: 16px;
+}
+
+.black-box {
+  height: 100%;
+  background-color: black;
+  padding: 16px;
+}
+
+.red-box {
+  height: 100%;
+  background-color: crimson;
+  padding: 24px;
+}
+
+.yellow-box {
+  height: 100%;
+  background-color: khaki;
+  padding: 30px;
+}
+
+h1 {
+  color: black;
+  font-size: 72px;
+}

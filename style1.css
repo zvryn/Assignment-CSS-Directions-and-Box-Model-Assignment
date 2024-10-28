@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-family: "sans-serif";
+}
+
+header {
+  color: #183b56;
+  background-color: #92aabd;
+  height: 20vh;
+  padding: 52px 0px 52px 55px;
+}
+
+main {
+  padding: 55px;
+}
+
+div {
+  width: 536px;
+  height: 321px;
+  margin-bottom: 55px;
+  background-color: #e4e9ed;
+  padding: 30px;
+  color: #183b56;
+  border: 3px solid #183b56;
+  border-radius: 3px;
+}
+
+img {
+  background-color: #eeeeee;
+  margin: 20px 0px;
+}
